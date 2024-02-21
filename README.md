@@ -10,3 +10,7 @@ This Python script generates a precision-recall curve, providing insights into t
 ROC Curve
 This Python script plots the Receiver Operating Characteristic (ROC) curve, illustrating the model's ability to discriminate between positive and negative classes. The area under the ROC curve (AUC) quantifies the overall performance. Customize the values in y_true and y_pred for your specific classification outcomes.
 ![Spam](https://github.com/Sathvikrk2002/Data-science-/assets/136539495/5c2dc0df-4601-4c7f-9bad-86ecc80a6f8a)
+
+![Stacked bar](https://github.com/Sathvikrk2002/Data-science-/assets/136539495/de2e60a4-a8de-4005-973e-775b37c2c660)
+
+
