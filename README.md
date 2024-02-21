@@ -13,4 +13,7 @@ This Python script plots the Receiver Operating Characteristic (ROC) curve, illu
 
 ![Stacked bar](https://github.com/Sathvikrk2002/Data-science-/assets/136539495/de2e60a4-a8de-4005-973e-775b37c2c660)
 
+![Precision_recall](https://github.com/Sathvikrk2002/Data-science-/assets/136539495/6a1a8890-ba3f-45ba-8918-3e302497fccb)
+
+
 
