@@ -1,4 +1,3 @@
----
 - Confusion Matrix for Spam Classification
 This Python script generates a confusion matrix and visualizes it using a heatmap. It's designed for binary classification scenarios, helping to evaluate the performance of a classification model. Modify the values in y_true and y_pred for your specific classification results.
 
